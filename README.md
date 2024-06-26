@@ -8,3 +8,6 @@ Siirrytään käyttämään sovelluksessamme olioita. Muuta komponentin App muut
 
 1.4 : 
 Seuraavaksi laitetaan oliot taulukkoon, eli muuta App :in muuttujamäärittelyt seuraavaan muotoon ja muuta sovelluksen kaikki osat vastaavasti. Älä kuitenkaan välitä eri olioita komponentista App sen sisältämiin komponentteihin Content ja Total erillisinä propseina, vaan suoraan taulukkona.
+
+1.5:
+Viedään muutos vielä yhtä askelta pidemmälle, eli tehdään kurssista ja sen osista yksi JavaScript-olio. Korjaa kaikki mikä menee rikki.
